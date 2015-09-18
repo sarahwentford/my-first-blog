@@ -6,7 +6,7 @@ body {
 }
 h1 a {
     color: #632578;
-    font-family: 'Lobster';
+    font-family: 'Fauna One';
 }
 .page-header {
     background-color: #632578;
@@ -25,7 +25,7 @@ h1 a {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Fauna One', cursive;
 }
 
 .date {
