@@ -1,15 +1,15 @@
 h1 a {
-    color: #65AD88;
+    color: #509170;
 }
 body {
     padding-left: 15px;
 }
 h1 a {
-    color: #65AD88;
-    font-family: 'Fauna One';
+    color: #509170;
+    font-family: 'Dancing Script';
 }
 .page-header {
-    background-color: #65AD88;
+    background-color: #509170;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -53,8 +53,14 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #AD658A;
+    color: #505191;
 }
 .comment {
     margin: 20px 0px 20px 20px;
+}
+.page-subheader h2{
+		padding-left: 15px;
+		color: #505191;
+    	font-size: 26pt;
+    	font-family: 'Dancing Script';
 }
