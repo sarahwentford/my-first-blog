@@ -7,6 +7,7 @@
 		<link rel="stylesheet" href="{% static "css/blog.css" %}">
 		<link href='https://fonts.googleapis.com/css?family=Fauna+One' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Dancing+Script:700' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Calligraffitti' rel='stylesheet' type='text/css'>
     </head>
     <body>
         <div class="page-header">
@@ -17,10 +18,7 @@
             {% else %}
             <a href="{% url "django.contrib.auth.views.login" %}" class="top-menu"><span class="glyphicon glyphicon-lock"></span></a>
             {% endif %}
-            <h1><a href="{% url "blog.views.post_list" %}"><center><strong><sup>★</sup>★<sub>★</sub> Minute Thoughts</strong></center></a></h1>
-        </div>
-        <div class="page-subheader">
-            <h2> Travelling the universe. </h2>
+            <h1><a href="{% url "blog.views.post_list" %}"><center><strong><sup>★</sup>★<sub>★</sub>   Where Wentford Went</strong></center></a></h1>
         </div>
         <div class="content">
             <div class="row">
