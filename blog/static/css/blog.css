@@ -6,7 +6,7 @@ body {
 }
 h1 a {
     color: #5C9E78;
-    font-family: 'Calligraffitti';
+    font-family: 'lobster';
 }
 .page-header {
     background-color: #5C9E78;
@@ -25,8 +25,8 @@ h1 a {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Calligraffitti', cursive;
-    color: #505191;
+    font-family: 'lobster', cursive;
+    color: #745D99;
 }
 
 .date {
@@ -54,14 +54,14 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #5C5E9E;
+    color: #745D99;
 }
 .comment {
     margin: 20px 0px 20px 20px;
 }
 .page-subheader h2{
 		padding-left: 15px;
-		color: #505191;
+		color: #745D99;
     	font-size: 26pt;
-    	font-family: 'Calligraffitti';
+    	font-family: 'lobster';
 }
