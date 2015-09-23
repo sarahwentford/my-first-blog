@@ -1,15 +1,15 @@
 h1 a {
-    color: #910000;
+    color: #A11A29;
 }
 body {
     padding-left: 15px;
 }
 h1 a {
-    color: #910000;
+    color: #6C3A9E;
     font-family: 'Dancing Script';
 }
 .page-header {
-    background-color: #910000;
+    background-color: #A11A29;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -26,7 +26,7 @@ h1 a {
 
 h1, h2, h3, h4 {
     font-family: 'Dancing Script', cursive;
-    color: #532185;
+    color: #6C3A9E;
 }
 
 .date {
@@ -53,9 +53,14 @@ h1, h2, h3, h4 {
     margin-bottom: 70px;
 }
 
-.post h1 a, .post h1 a:visited {
-    color: #532185;
+.post h1 a, {
+    color: #6C3A9E;
 }
+
+.post h1 a:visited {
+	color: #6C3A9E;
+}
+
 .comment {
     margin: 20px 0px 20px 20px;
 }
